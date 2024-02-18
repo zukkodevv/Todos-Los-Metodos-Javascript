@@ -11,7 +11,7 @@
 > cada método de javascript con un resumen, ya que sí bien MDN tienen una
 > documentación esplendida, realmente no tenes una guía de que ir aprendiendo.
 
-## Sobre el proeyecto
+## Sobre el proyecto
 
 > Este es un repositorio sencilo para que puedan ver todos los métodos que se
 > pueden ir aprendiendo en la ruta de un desarrollador de javascript, traté de
