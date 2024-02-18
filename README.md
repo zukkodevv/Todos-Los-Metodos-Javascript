@@ -4,14 +4,14 @@
 > métodos a medida que los voy aprendiendo, esperar un **ritmo inestable** de
 > alrededor de 1 - 2 métodos por día.
 
-## Gracias por seguir im proyecto!
+## Gracias por seguir mi proyecto!
 
 > Este es mi primer proyecto público con intención de que lo vean más personas
 > esta pensado cómo una guía de algo que me hubiera gustado a mí, una guía con
 > cada método de javascript con un resumen, ya que sí bien MDN tienen una
 > documentación esplendida, realmente no tenes una guía de que ir aprendiendo.
 
-# Sobre el proeyecto
+## Sobre el proeyecto
 
 > Este es un repositorio sencilo para que puedan ver todos los métodos que se
 > pueden ir aprendiendo en la ruta de un desarrollador de javascript, traté de
