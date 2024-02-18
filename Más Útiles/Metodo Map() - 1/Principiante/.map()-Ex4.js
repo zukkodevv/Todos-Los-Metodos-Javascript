@@ -12,6 +12,8 @@ function notVar(val) {
     .join(""); // 4
 }
 
+console.log(notVar("pepito")); // "PEPITO"
+
 //Si bien esta función parece intimdante realmente no es algo dificil de aprender, vamos a desglosarla
 //línea por línea;
 // ----------
@@ -25,5 +27,3 @@ function notVar(val) {
 // ----------
 // 4- le pedimos a la función general que una todas las letras con el método join()
 // ----------
-
-console.log(notVar("pepito")); // "PEPITO"
