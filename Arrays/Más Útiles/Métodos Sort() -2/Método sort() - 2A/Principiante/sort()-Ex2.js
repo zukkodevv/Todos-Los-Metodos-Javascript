@@ -11,7 +11,7 @@ numeros.sort();
 // por lo que después del 10 el orden se rompería totalmente;
 console.log(numeros); // [1, 1231, 2, 232, 3, 3234, 4, 5]
 
-//**--------------- Ejemplo bien resueto------------------------*/
+//**--------------- Ejemplo bien resuelto------------------------*/
 
 const numeros1 = [1, 2, 3, 4, 5, 121, 32, 1132, 923];
 // Definimos un array constante con variedad de números

@@ -12,7 +12,7 @@ const numbers = [1,2,3,4,5];
 
 > En este caso le estamos indicando a la function que para referirnos a cada
 > iteración usaremos el parametro num, así que por ejemplo sí quisieramos que se
-> viese en la consola cada numero se esta iterando cuándo se itere solo
+> viese en la consola cada número que se esta iterando cuándo se itere solo
 > deberiamos poner console.log(num) (dentro de el ejectuable de la función
 > obviamente)
 
@@ -22,4 +22,4 @@ const numbers = [1,2,3,4,5];
 > paso a paso y a detalle, recuerden que a cualquier duda pueden contactarse por
 > mis redes sociales!
 
-### ¡Suerte con su código!
+### ¡Suerte con tú código!

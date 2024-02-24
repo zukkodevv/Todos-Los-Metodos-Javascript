@@ -18,3 +18,10 @@
 > incluir todos los métodos más indispensables con mayor prioridad que los
 > demás, aunque claro que también trato de agregar métodos que son buenos de
 > saber aunque sea que se apliquen en situaciones especificas, espero les ayude!
+
+## Arrays/Objetos
+
+> Las carpetas "Arrays" y "Objetos" contienen métodos que son solo o mayormente
+> aplicables en arrays u objetos, los métodos que se encuentran repetidos en
+> ambas carpetas son aquellos que son aplicables de misma manera en ambos casos,
+> ya sea arrays o objetos.
